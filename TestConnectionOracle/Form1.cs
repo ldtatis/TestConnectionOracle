@@ -21,6 +21,7 @@ namespace TestConnectionOracle
         {
 
             MotorBD.Items.Clear();
+            MotorBD.Items.Add("ORACLE");
             MotorBD.Items.Add("ORACLEMS");
             MotorBD.Items.Add("ORACLE10G");
         }
@@ -40,6 +41,11 @@ namespace TestConnectionOracle
                 case "ORACLE10G":
                     {
                         mt = MicrocolsaDatosCorrespondencia.tipoMotorDb.ORACLE10G;
+                    }
+                    break;
+                case "ORACLE":
+                    {
+                        mt = MicrocolsaDatosCorrespondencia.tipoMotorDb.ORACLE;
                     }
                     break;
             }

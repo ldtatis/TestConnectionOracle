@@ -42,7 +42,7 @@ namespace MicrocolsaAccesoDatosNet
         /// del cliente de Oracle instalada
         /// ORACLE10G | Solo para instalaciones con el cliente Oracle 10g a 32 bits
         /// </summary>
-        public enum tipoMotorDb { MYSQL = 1, MSSQL = 2, ORACLE10G = 3, ODBC = 4, INTERNO = 5, ORACLEMS = 6 };
+        public enum tipoMotorDb { MYSQL = 1, MSSQL = 2, ORACLE10G = 3, ODBC = 4, INTERNO = 5, ORACLEMS = 6, ORACLE = 7};
         /// <summary>
         /// Id de la base de datos
         /// </summary>
