@@ -1,0 +1,9 @@
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\bin\Release\MicrocolsaAccesoDatosNet.dll
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\bin\Release\MicrocolsaAccesoDatosNet.pdb
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\obj\Release\MicrocolsaAccesoDatosNet.SentenciasMsSqlB.resources
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\obj\Release\MicrocolsaAccesoDatosNet.SentenciasMySqlB.resources
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\obj\Release\MicrocolsaAccesoDatosNet.SentenciasOracle.resources
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\obj\Release\MicrocolsaAccesoDatosNet.csproj.GenerateResource.Cache
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\obj\Release\MicrocolsaAccesoDatosNet.dll
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\obj\Release\MicrocolsaAccesoDatosNet.pdb
+C:\Digitex\Fuentes\TestConnectionOracle\MicrocolsaAccesoDatosNet\obj\Release\MicrocolsaAccesoDatosNet.csprojResolveAssemblyReference.cache

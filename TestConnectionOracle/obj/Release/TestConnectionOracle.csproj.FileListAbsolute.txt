@@ -1,0 +1,10 @@
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\bin\Release\TestConnectionOracle.exe
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\bin\Release\TestConnectionOracle.pdb
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\bin\Release\MicrocolsaAccesoDatosNet.dll
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\bin\Release\MicrocolsaAccesoDatosNet.pdb
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\obj\Release\TestConnectionOracle.csprojResolveAssemblyReference.cache
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\obj\Release\TestConnectionOracle.Form1.resources
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\obj\Release\TestConnectionOracle.Properties.Resources.resources
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\obj\Release\TestConnectionOracle.csproj.GenerateResource.Cache
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\obj\Release\TestConnectionOracle.exe
+C:\Digitex\Fuentes\TestConnectionOracle\TestConnectionOracle\obj\Release\TestConnectionOracle.pdb

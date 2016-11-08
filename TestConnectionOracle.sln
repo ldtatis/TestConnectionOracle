@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConnectionOracle", "TestConnectionOracle\TestConnectionOracle.csproj", "{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrocolsaAccesoDatosNet", "MicrocolsaAccesoDatosNet\MicrocolsaAccesoDatosNet.csproj", "{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Release|ARM.ActiveCfg = Release|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Release|x64.ActiveCfg = Release|Any CPU
+		{A2BAAAB2-19D2-4DBC-9404-A94C7CFA3810}.Release|x86.ActiveCfg = Release|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Release|ARM.ActiveCfg = Release|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Release|x64.ActiveCfg = Release|Any CPU
+		{B1086D34-A5AA-4F00-B9CB-E43723EBC5FE}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
